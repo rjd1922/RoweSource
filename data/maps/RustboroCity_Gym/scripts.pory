@@ -306,7 +306,7 @@ RustboroCity_Gym_Text_GymGuidePostVictory: @ 82132E2
 	.string "Whoa! What a breathtaking victory!\n"
 	.string "My cheering must've worked!\p"
 	.string "Great!\n"
-	.string "Check your Trainer card.\p"
+	.string "Check your Trainer Card.\p"
 	.string "The Stone Badge you got should be\n"
 	.string "properly recorded on it.\p"
 	.string "In other words…\p"
@@ -411,7 +411,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
 	.string "This is Roxanne of Rustboro City.\p"
 	.string "I heard from Brawly that you're\n"
 	.string "moving up through the ranks of\l"
-	.string "TrainerS at an incredible clip.\p"
+	.string "Trainers at an incredible clip.\p"
 	.string "Well, I'd rather not think that\n"
 	.string "I can't beat you.\p"
 	.string "I promise, I will shape up my Gym\n"
@@ -423,7 +423,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall: @ 8213A76
 
 RustboroCity_Gym_Text_RegisteredRoxanne: @ 8213C01
 	.string "Registered Gym Leader Roxanne\n"
-	.string "in the Pokénav.$"
+	.string "in the PokéNav.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch: @ 8213C2F
 	.string "Roxanne: I'm so glad to see you again.\n"
