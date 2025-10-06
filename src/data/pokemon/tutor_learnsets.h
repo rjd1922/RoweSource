@@ -14549,6 +14549,7 @@ static const u8 sKeldeoTutorLearnset[] =
 
 static const u8 sMeloettaTutorLearnset[] =
 {
+    TUTOR(MOVE_SWORDS_DANCE),
     TUTOR(MOVE_DREAM_EATER),
     TUTOR(MOVE_THUNDER_WAVE),
     TUTOR(MOVE_SUBSTITUTE),
